@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1704687834 source:c:\users\agung wira\documents\semester 3\coding_struktur_data\tugas_besar_struktur_data\main.cpp
+	<iostream>
+	"Parent.h"
+	"Child.h"
+	"Relasi.h"
+	"Menu.h"
+
+1704688055 c:\users\agung wira\documents\semester 3\coding_struktur_data\tugas_besar_struktur_data\parent.h
+	<iostream>
+
+1704687602 source:c:\users\agung wira\documents\semester 3\coding_struktur_data\tugas_besar_struktur_data\parent.cpp
+	"Parent.h"
+
+1704620212 source:c:\users\agung wira\documents\semester 3\coding_struktur_data\tugas_besar_struktur_data\child.cpp
+	"Child.h"
+
+1704620212 c:\users\agung wira\documents\semester 3\coding_struktur_data\tugas_besar_struktur_data\child.h
+	<iostream>
+
+1704631530 c:\users\agung wira\documents\semester 3\coding_struktur_data\tugas_besar_struktur_data\relasi.h
+	"Parent.h"
+	"child.h"
+	<iostream>
+
+1704687096 source:c:\users\agung wira\documents\semester 3\coding_struktur_data\tugas_besar_struktur_data\relasi.cpp
+	"Relasi.h"
+
+1704687096 source:c:\users\agung wira\documents\semester 3\coding_struktur_data\tugas_besar_struktur_data\menu.cpp
+	<iostream>
+	"Menu.h"
+
+1704681814 c:\users\agung wira\documents\semester 3\coding_struktur_data\tugas_besar_struktur_data\menu.h
+	<iostream>
+	"Parent.h"
+	"Child.h"
+	"Relasi.h"
+
